@@ -649,7 +649,7 @@
     "m_Group": {
         "m_Id": "afabb3aba5c44c7b92021a1215017fbf"
     },
-    "m_Name": "RimLight Sub Graph",
+    "m_Name": "Texture Sampling Sub Graph",
     "m_DrawState": {
         "m_Expanded": true,
         "m_Position": {
